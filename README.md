@@ -1,5 +1,5 @@
 # comments
-# Practice: What is the of comments for HTML
+# Practice: What is the purpose of comments for HTML
 
 ### Practice working with HTML
 
